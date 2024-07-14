@@ -36,7 +36,7 @@ col = ['violet', 'indigo', 'skyblue', 'green', 'yellow', 'orange', 'red']
 sc.setup(600, 600)
  
 # Set the screen color to black
-sc.bgcolor('black')
+sc.bgcolor('white')
  
 # Setup the turtle features
 pen.right(90)
